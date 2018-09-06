@@ -1,4 +1,4 @@
-# FFML — Fantasy Football Machine Learning
+# F.F.M.L. — Fantasy Football Machine Learning
 
 This was probably long overdue _buuuuuuutttttt_ I'm finally going to attempt to marry the two things that I currently spend most of my professional time and leisure time on:
 
@@ -23,6 +23,17 @@ Some of the skills I envision sharpening over the course of this project are:
 - **Natural Language Processing (NLP)**
     - A bit of a reach goal but one that I'm determined to follow through on is being able to scrape a large number of articles written by fantasy sites, major sports news outlets, betting sites, and local beat reporters.
     - In the end, I'll want to use some NLP techniques to aggregate all of this information, process it, and hopefully draw some meaningful insights out of it.
+
+- **Data Visualization and Storytelling**
+    - After everything has been collected and cleaned up a bit, I know I'll be able to do some pretty awesome visualizations and historical analytics.
+    - I'll be working on even further refining my `matplotlib`, `seaborn`, and `Tableau` skills, and hopefully will be able to even get my hands dirty with some `D3.js`.
+    - Throughout this entire process, but in this section specifically, I'd like to continue to refine my writing. It's something that I've always enjoyed doing (and thought I was decent at), so I'm really looking forward to it.
+    - With data science, I've always placed a premium on my skills in that arena — if you can't effectively communicate what you've found, all your cool modeling is for nothing.
+
+- **Machine Learning / Predictive Modeling**
+    - Anddddd for the stuff that everyone is clamoring for. The stuff that brings me back to the same sites time and time again — that enticing promise of knowing the future and having some sort of an edge over your friends / co-workers / league-mates.
+    - Lots of `scikit-learn` here, with some `TensorFlow` and `Keras` thrown in as well.
+    - We'll see how the actual predictions turn out...hopefully better than my March Madness ones! LOLZ
 
 ### Prerequisites
 
