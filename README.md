@@ -1,5 +1,7 @@
 # F.F.M.L. — Fantasy Football Machine Learning
 
+![FFML-logo](https://github.com/dodgemcintosh/FFML/blob/master/assets/FFML-logo-1.png)
+
 This was probably long overdue _buuuuuuutttttt_ I'm finally going to attempt to marry the two things that I currently spend most of my professional time and leisure time on:
 
 1. Data Science and Machine Learning
