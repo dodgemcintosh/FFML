@@ -1,10 +1,28 @@
-# Project Title
+# FFML — Fantasy Football Machine Learning
 
-One Paragraph of project description goes here
+This was probably long overdue _buuuuuuutttttt_ I'm finally going to attempt to marry the two things that I currently spend most of my professional time and leisure time on:
 
-## Getting Started
+1. Data Science and Machine Learning
+2. Fantasy Football
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+I admittedly spend too much time reading fantasy football news and articles (yes, there's currently a tab open right now), so I've decided that if I'm going to make decisions about who to draft, who to start/sit each week, and weekly and season-long player scoring projections, that I want to have a hand in crafting those metrics.
+
+## The Big Picture
+
+Ultimately, I want to have some fun with this while getting to practice much of my data science toolkit on something that I've come to enjoy tremendously over the years. If I can get player and/or team projections to a point where I'm outperforming current industry experts...well that will just be gravy :P
+
+Some of the skills I envision sharpening over the course of this project are:
+
+- **Data Acquisition**
+    - This will largely be web scraping from various NFL stats aggregation sites.
+    - Will get to use the `requests`, `BeautifulSoup`, and (maybe) `Selenium` libraries to accomplish this.
+
+- **Data Wrangling**
+    - Being able to take all of that information and getting it into a format that will be easier to work with is going to take a hell of a lot of `Pandas`.
+
+- **Natural Language Processing (NLP)**
+    - A bit of a reach goal but one that I'm determined to follow through on is being able to scrape a large number of articles written by fantasy sites, major sports news outlets, betting sites, and local beat reporters.
+    - In the end, I'll want to use some NLP techniques to aggregate all of this information, process it, and hopefully draw some meaningful insights out of it.
 
 ### Prerequisites
 
